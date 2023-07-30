@@ -1,0 +1,11 @@
+ Hardware Connections:
+
+Connect the MQ-135 Gas Sensor and LCD Display:
+Connect the MQ-135 sensor to analog pin A0 on the Arduino.
+Connect the LCD's RS (Register Select) pin to digital pin 12 on the Arduino.
+Connect the LCD's Enable pin to digital pin 11 on the Arduino.
+Connect the LCD's Data pins D4-D7 to digital pins 5-8 on the Arduino.
+Connect the LCD's VSS and RW pins to GND.
+Connect the LCD's VDD pin to +5V.
+Connect the LCD's V0 pin to the middle pin of a 10k potentiometer. Connect the other two pins of the potentiometer to GND and +5V to adjust the contrast.
+Connect the LCD's LED+ pin to +5V and the LED- pin to GND to backlight the display.
