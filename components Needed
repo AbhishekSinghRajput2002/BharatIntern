@@ -1,0 +1,8 @@
+Components Required:
+
+ESP8266 (NodeMCU or similar)
+Blood Pressure Sensor (e.g., BP Sensor)
+Glucometer Sensor (for blood sugar level)
+Heartbeat Sensor (e.g., Pulse Sensor)
+Breadboard and Jumper Wires
+5V Power Supply (e.g., USB power bank)
