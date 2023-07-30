@@ -1,0 +1,19 @@
+ Hardware Connections:
+
+Connect the ESP8266:
+
+Connect VCC and GND of ESP8266 to a 5V power source (USB power bank).
+Connect the CH_PD pin of ESP8266 to VCC.
+Connect the GPIO pins of ESP8266 to the respective sensor modules (BP, Glucometer, Pulse Sensor).
+Connect the Sensors:
+
+Connect the Blood Pressure Sensor, Glucometer Sensor, and Pulse Sensor to the appropriate GPIO pins on the ESP8266.
+
+
+Telegram Bot Setup:
+
+Create a Telegram Bot:
+Open the Telegram app and search for the "BotFather" user.
+Start a chat with the BotFather and use the "/newbot" command to create a new bot.
+Follow the instructions to set a name and username for your bot.
+The BotFather will provide you with an API token; save this token for later use.
